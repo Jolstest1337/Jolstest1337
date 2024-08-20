@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Ani.py](https://github.com/Jolstest1337/Ani.Py)
 
-- 🔎 My [Website](https://main--vermillion-malasada-d83f4d.netlify.app/)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Jolstest1337](https://github.com/Jolstest1337)
 
 - 🎥 You can see me showcase my project at [https://www.youtube.com/@imbatman6151](https://www.youtube.com/@imbatman6151)
