@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jols1337&label=Profile%20views&color=0e75b6&style=flat" alt="jols1337" /> </p>
 
-- 🔭 I’m currently working on [Ani.py](https://github.com/Jolstest1337/Ani.Py)
+- 🔭 I’m currently working on my [Website](https://jols1337.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jolstest1337](https://github.com/Jolstest1337)
+- 👨‍💻 All of my projects are available at [https://github.com/Jolstest1337]([https://github.com/Jolstest1337/](https://github.com/Jolstest1337?tab=repositories))
 
 - 🎥 You can see me showcase my project at [https://www.youtube.com/@imbatman6151](https://www.youtube.com/@imbatman6151)
 
